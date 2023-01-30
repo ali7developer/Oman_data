@@ -1,3 +1,8 @@
+#logo{
+	width: 60px;
+   height: 60px;
+}
+
 h1{
 
 	text-align: center;
@@ -15,9 +20,7 @@ h3{
 	color: lightred;
 }
 
-nav {
-	background-color: green;
-}
+
 
 .navbar-brand{
 	font-style: italic;
@@ -36,4 +39,26 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+h6{
+	text-align: center;
+	text-justify: inter-cluster;
+	font-size: 20px;
+	color: lightred;
+}
+
+con_bold{
+	font-style: bold;
+	font-family: fantasy;
+
+}
+
+.table_s {
+  display: inline-block;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
