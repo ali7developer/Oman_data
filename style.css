@@ -23,3 +23,17 @@ nav {
 	font-style: italic;
 	font-family: fantasy;
 }
+
+.frambi{
+   width: 600;
+   height: 700;
+   border-width:1px;
+   border-style: solid;
+   display: inline-block;
+   position: relative;
+   margin: -30px auto 0 auto;
+   top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
